@@ -1,0 +1,12 @@
+{
+    "name": "nubila/nubila-framework",
+    "description": "A lightweight PHP framework",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nubila\\": "src/"
+        }
+    }
+}
